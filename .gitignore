@@ -1,0 +1,18 @@
+# Build artifacts
+/build/
+*.o
+*.obj
+*.exe
+*.dll
+*.dylib
+*.so
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+*.qmlc
+*.jsc
+
+# OS files
+.DS_Store
+Thumbs.db
